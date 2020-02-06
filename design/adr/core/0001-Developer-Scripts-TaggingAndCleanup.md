@@ -96,7 +96,7 @@ It pulls all the `MODULES` that exists in the working directory (shorter version
 
 ## Decision
 
-Pending ...
+IN_PROGRESS
 
 ## Consequences
 
